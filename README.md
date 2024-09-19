@@ -12,6 +12,7 @@
 ###
 
 <div align="center">
+  <p>Profile Views: </p>
   <img src="https://profile-counter.glitch.me/ashibhuvan/count.svg?"  />
 </div>
 
@@ -30,6 +31,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ashibhuvan/ashibhuvan/output/snake.svg" alt="Snake animation" />
 
 ###
